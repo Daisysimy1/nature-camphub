@@ -1,0 +1,5 @@
+Before booking, user needs to create an account or login to the system
+Fill in the details on the form e.g First Name, Last Name, email address, phone Number, Number of people you are booking with e.g solo,3people,4people,5people
+
+then submitted to the database
+Generate report for the client's details entered into the form
